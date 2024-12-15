@@ -1,0 +1,5 @@
+# @Clickhouse.Kata.API_HostAddress=https://localhost:44351
+GET {{HostAddress}}/commits/days
+Accept: application/json
+
+###
